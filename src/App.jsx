@@ -1,4 +1,4 @@
-import PropertyWebsite from "./components/Property";
+import Property from "./components/Property";
 
 function App() {
   return <Property />;
